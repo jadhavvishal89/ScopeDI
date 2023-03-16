@@ -1,1 +1,1 @@
-# WebApplication1
+Understanding Dependency Injection Lifetime -AddTransient, AddScoped and AddSingleton
